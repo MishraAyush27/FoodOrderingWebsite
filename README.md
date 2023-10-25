@@ -1,2 +1,2 @@
 # FoodOrderingWebsite
-It is a template of food ordering website that is designed by me using HTML and CSS.
+"FoodOrderingWebsite" is a user-friendly online platform designed with HTML and CSS, offering a seamless food ordering experience. It allows users to browse a diverse menu, customize their orders, and make secure online payments. The website also includes features like user registration, order tracking, and a responsive design for easy access on various devices. With its clean and attractive layout, "FoodOrderingWebsite" offers both customers and restaurants a convenient and efficient way to connect, order delicious meals, and enjoy a hassle-free dining experience in the digital age.
